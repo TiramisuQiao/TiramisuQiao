@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiramisuQiao)
 
-![Metrics](https://metrics.lecoq.io/TiramisuQiao?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+![Metrics](/github-metrics.svg)
 
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=TiramisuQiao&theme=github-compact&hide_border=true&area=true" />
