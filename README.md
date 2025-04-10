@@ -4,11 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5D17F7&background=FFFFFF00&center=true%C2%A0%E7%9C%9F&vCenter=false%C2%A0%E5%81%87&repeat=true%C2%A0%E7%9C%9F&random=false%C2%A0%E5%81%87&width=435&lines=MY+NAME+IS+HongHui+Zhang;Welcome+To+My+GitHub)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamefreshman)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiramisuQiao)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamefreshman)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiramisuQiao)
 
-![Metrics](/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/TiramisuQiao?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=TiramisuQiao&theme=github-compact&hide_border=true&area=true" />
