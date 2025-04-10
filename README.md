@@ -22,7 +22,7 @@
 </picture>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE_END&fontSize=90&fontAlign=50&fontAlignY=70&desc=HOPE_YOU_WELL&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=LGTM&fontSize=90&fontAlign=50&fontAlignY=70&desc=BYE&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
 
 
