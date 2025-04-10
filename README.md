@@ -11,14 +11,14 @@
 ![Metrics](/github-metrics.svg)
 
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=gamefreshman&theme=github-compact&hide_border=true&area=true" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=TiramisuQiao&theme=github-compact&hide_border=true&area=true" />
 
 <img align="center" src="https://skillicons.dev/icons?i=anaconda,c,cpp,git,github,gmail,ai,linux,md,powershell,pycharm,py,pytorch,ubuntu,vscode&theme=light" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiramisuQiao/TiramisuQiao/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gamefreshman/gamefreshman/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gamefreshman/gamefreshman/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TiramisuQiao/TiramisuQiao/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TiramisuQiao/TiramisuQiao/output/github-contribution-grid-snake.svg">
 </picture>
 
 <p align="center">
