@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiramisuQiao)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiramisuQiao)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=TiramisuQiao](https://github-readme-stats.vercel.app/api/top-langs/?username=TiramisuQiao&layout=compact&hide=jupyter%20notebook))
 
 ![Metrics](/github-metrics.svg)
 
